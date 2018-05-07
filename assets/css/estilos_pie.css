@@ -1,0 +1,19 @@
+.pie{
+	background-color: #2BABB5;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.pie p{
+	color: #A63E3E;
+	font-size: 14px;
+	padding: 10px;
+	display: inline;
+	text-align: left;
+}
+
+div h5{
+	text-align: right;
+	color:white; 
+}

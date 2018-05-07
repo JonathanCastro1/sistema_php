@@ -1,0 +1,57 @@
+body{
+	background-color:#DFBBBA;  
+}
+
+h1{
+	color:#31F4FC ;
+	padding-left: 30%;
+	padding-bottom: 20px;
+	
+
+}
+
+.seccion_principal{
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+
+div form .espaciou{
+	padding-bottom: 20px;
+	padding-left: 32%;
+
+}
+
+div form .espaciod{
+	padding-bottom: 20px;
+	padding-left: 20%;
+
+}
+
+div form .buno{
+	margin-left: 25%;	
+	height: 30px;
+	width: 80px;
+
+}
+
+div form .bdos{	
+	height: 30px;
+	width: 80px;
+
+}
+
+div form .espaciot{	
+	padding-left: 20%;
+
+}
+
+div button a{		
+	color: yellow;
+
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: none;	
+}
